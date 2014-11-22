@@ -6,10 +6,15 @@ A Multi-Threaded HTTP Proxy Server
 *** README ***
 
 NAME : SAVITHRU M LOKANATH
+
 SOURCE FILE : SavithruLokanath_proxy.py
+
 MULTI-THREADING ENABLED
+
 CACHING ENABLED WITH EXPIRY (5 MINUTES)
+
 BLOCKS JPG FILES
+
 CACHE PATH : /Users/savithru/Desktop/prog3/temp1
 
 Steps to implement a proxy server on your local machine - 
